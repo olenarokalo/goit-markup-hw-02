@@ -3,7 +3,6 @@ body {
     color: #2E2F42;
     background-color: #FFFFFF;
     font-size: 16px;
-    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -60,7 +59,7 @@ ul {
 }
 
 .tagline-tittle {
-    color: #FFF;
+    color: #FFFFFF;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
@@ -76,6 +75,7 @@ ul {
     color: #FFFFFF;
     font-weight: 500;
     letter-spacing: 0.64px;
+    cursor: pointer;
 }
 
 .tagline-btn:hover,
@@ -161,7 +161,7 @@ ul {
 
 .foot-logo {
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     line-height: 21px;
     letter-spacing: 0.54px;
