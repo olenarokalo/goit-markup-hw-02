@@ -65,11 +65,12 @@ ul {
 
 .tagline-tittle {
     color: #FFFFFF;
+    font-size: 18px;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.54px;
     text-indent: 472px;
 }
 
@@ -105,6 +106,7 @@ ul {
 }
 
 .list-title {
+    color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.4px;
@@ -123,6 +125,7 @@ ul {
 
 
 .about-title {
+    color: #2e2f42;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -139,6 +142,7 @@ ul {
 }
 
 .about-name {
+    color: #2e2f42;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -158,6 +162,7 @@ ul {
 /* Портфоліо */
 
 #portfolio {
+    color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -186,7 +191,8 @@ ul {
     color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
-    line-height: 1.17 letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
     text-transform: uppercase;
     font-weight: 700
 }
